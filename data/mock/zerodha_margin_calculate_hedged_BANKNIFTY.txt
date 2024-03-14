@@ -1,0 +1,109 @@
+{
+    "status": "success",
+    "data": {
+        "initial": {
+            "type": "",
+            "tradingsymbol": "",
+            "exchange": "",
+            "span": 105407.03249999997,
+            "exposure": 26972.118249999825,
+            "option_premium": 710,
+            "additional": 0,
+            "bo": 0,
+            "cash": 0,
+            "var": 0,
+            "pnl": {
+                "realised": 0,
+                "unrealised": 0
+            },
+            "total": 133089.1507499998
+        },
+        "final": {
+            "type": "",
+            "tradingsymbol": "",
+            "exchange": "",
+            "span": 20115.287500000093,
+            "exposure": 26972.118250000058,
+            "option_premium": -1890.9375,
+            "additional": 0,
+            "bo": 0,
+            "cash": 0,
+            "var": 0,
+            "pnl": {
+                "realised": 0,
+                "unrealised": 0
+            },
+            "total": 40000.46825000015
+        },
+        "orders": [
+            {
+                "type": "equity",
+                "tradingsymbol": "BANKNIFTY2180534800CE",
+                "exchange": "NFO",
+                "span": 0,
+                "exposure": 13491.054499999853,
+                "option_premium": 0,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 13491.054499999853
+            },
+            {
+                "type": "equity",
+                "tradingsymbol": "BANKNIFTY2180534800PE",
+                "exchange": "NFO",
+                "span": 105407.03249999997,
+                "exposure": 13481.063749999972,
+                "option_premium": 0,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 118888.09624999994
+            },
+            {
+                "type": "equity",
+                "tradingsymbol": "BANKNIFTY2180533600PE",
+                "exchange": "NFO",
+                "span": 0,
+                "exposure": 0,
+                "option_premium": 302.5,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 302.5
+            },
+            {
+                "type": "equity",
+                "tradingsymbol": "BANKNIFTY2180535600CE",
+                "exchange": "NFO",
+                "span": 0,
+                "exposure": 0,
+                "option_premium": 407.5,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 407.5
+            }
+        ]
+    }
+}

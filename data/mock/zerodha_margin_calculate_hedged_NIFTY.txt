@@ -1,0 +1,109 @@
+{
+    "status": "success",
+    "data": {
+        "initial": {
+            "type": "",
+            "tradingsymbol": "",
+            "exchange": "",
+            "span": 66067.92500000028,
+            "exposure": 24773.902999999933,
+            "option_premium": 262.5,
+            "additional": 0,
+            "bo": 0,
+            "cash": 0,
+            "var": 0,
+            "pnl": {
+                "realised": 0,
+                "unrealised": 0
+            },
+            "total": 91104.32800000021
+        },
+        "final": {
+            "type": "",
+            "tradingsymbol": "",
+            "exchange": "",
+            "span": 32020.83499999973,
+            "exposure": 24773.902999999933,
+            "option_premium": -1518.75,
+            "additional": 0,
+            "bo": 0,
+            "cash": 0,
+            "var": 0,
+            "pnl": {
+                "realised": 0,
+                "unrealised": 0
+            },
+            "total": 55275.98799999966
+        },
+        "orders": [
+            {
+                "type": "equity",
+                "tradingsymbol": "NIFTY2180516000CE",
+                "exchange": "NFO",
+                "span": 0,
+                "exposure": 12387.990999999922,
+                "option_premium": 0,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 12387.990999999922
+            },
+            {
+                "type": "equity",
+                "tradingsymbol": "NIFTY2180516000PE",
+                "exchange": "NFO",
+                "span": 66067.92500000028,
+                "exposure": 12385.912000000011,
+                "option_premium": 0,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 78453.83700000029
+            },
+            {
+                "type": "equity",
+                "tradingsymbol": "NIFTY2180516500CE",
+                "exchange": "NFO",
+                "span": 0,
+                "exposure": 0,
+                "option_premium": 107.5,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 107.5
+            },
+            {
+                "type": "equity",
+                "tradingsymbol": "NIFTY2180515100PE",
+                "exchange": "NFO",
+                "span": 0,
+                "exposure": 0,
+                "option_premium": 155,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 155
+            }
+        ]
+    }
+}

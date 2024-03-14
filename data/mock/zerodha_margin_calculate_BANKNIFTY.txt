@@ -1,0 +1,75 @@
+{
+    "status": "success",
+    "data": {
+        "initial": {
+            "type": "",
+            "tradingsymbol": "",
+            "exchange": "",
+            "span": 32844.7,
+            "exposure": 36013.45,
+            "option_premium": 0,
+            "additional": 0,
+            "bo": 0,
+            "cash": 0,
+            "var": 0,
+            "pnl": {
+                "realised": 0,
+                "unrealised": 0
+            },
+            "total": 145000.15
+        },
+        "final": {
+            "type": "",
+            "tradingsymbol": "",
+            "exchange": "",
+            "span": 32844.7,
+            "exposure": 36013.45,
+            "option_premium": -2061.875,
+            "additional": 0,
+            "bo": 0,
+            "cash": 0,
+            "var": 0,
+            "pnl": {
+                "realised": 0,
+                "unrealised": 0
+            },
+            "total": 66796.275
+        },
+        "orders": [
+            {
+                "type": "equity",
+                "tradingsymbol": "BANKNIFTY2121135800CE",
+                "exchange": "NFO",
+                "span": 32844.7,
+                "exposure": 18026.8,
+                "option_premium": 0,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 50871.5
+            },
+            {
+                "type": "equity",
+                "tradingsymbol": "BANKNIFTY2121135800PE",
+                "exchange": "NFO",
+                "span": 0,
+                "exposure": 17986.649999999998,
+                "option_premium": 0,
+                "additional": 0,
+                "bo": 0,
+                "cash": 0,
+                "var": 0,
+                "pnl": {
+                    "realised": 0,
+                    "unrealised": 0
+                },
+                "total": 17986.649999999998
+            }
+        ]
+    }
+}

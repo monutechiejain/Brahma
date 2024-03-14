@@ -1,0 +1,9 @@
+{
+    "errorDesc": "NO_FILLED_ORDER",
+    "brokerErrorCode": 400,
+    "brokerErrorDesc": "InputException : Unknown `tradingsymbol`.",
+    "transid": "1",
+    "sorderid": "1",
+    "sname": "OOPS1_PRD",
+    "order_digest": "[{\"zorderid\": null, \"status\": null, \"tradingsymbol\": null, \"status_message\": null, \"price\": null, \"trigger_price\": null, \"average_price\": null, \"tag\": \"9100_CE_SELL_16_32\", \"torderid\": \"9000CESELL1632\"}, {\"zorderid\": null, \"status\": null, \"tradingsymbol\": null, \"status_message\": null, \"price\": null, \"trigger_price\": null, \"average_price\": null, \"tag\": \"9000_CE_SELL_16_32\", \"torderid\": \"9000PESELL1632\"}]"
+}

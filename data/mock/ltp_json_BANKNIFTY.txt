@@ -1,0 +1,83 @@
+{
+    "BANKNIFTY": {
+        "instrument_token": 12247042,
+        "timestamp": "2020-01-27 09:31:30.216649",
+        "last_trade_time": "2020-01-27 09:31:30.216640",
+        "last_price": 30892.15,
+        "last_quantity": 20,
+        "buy_quantity": 127300,
+        "sell_quantity": 183000,
+        "volume": 3015840,
+        "average_price": 31050.89,
+        "oi": 1504040,
+        "oi_day_high": 1504040,
+        "oi_day_low": 1303540,
+        "net_change": 0,
+        "lower_circuit_limit": 28197.35,
+        "upper_circuit_limit": 34463.4,
+        "ohlc": {
+            "open": 31050.1,
+            "high": 31239.9,
+            "low": 30860,
+            "close": 31330.35
+        },
+        "depth": {
+            "buy": [
+                {
+                    "price": 30892,
+                    "quantity": 20,
+                    "orders": 1
+                },
+                {
+                    "price": 30891.1,
+                    "quantity": 40,
+                    "orders": 1
+                },
+                {
+                    "price": 30890.85,
+                    "quantity": 20,
+                    "orders": 1
+                },
+                {
+                    "price": 30890.75,
+                    "quantity": 40,
+                    "orders": 1
+                },
+                {
+                    "price": 30890.45,
+                    "quantity": 40,
+                    "orders": 1
+                }
+            ],
+            "sell": [
+                {
+                    "price": 30893.4,
+                    "quantity": 220,
+                    "orders": 4
+                },
+                {
+                    "price": 30893.95,
+                    "quantity": 20,
+                    "orders": 1
+                },
+                {
+                    "price": 30894,
+                    "quantity": 40,
+                    "orders": 1
+                },
+                {
+                    "price": 30896.45,
+                    "quantity": 40,
+                    "orders": 1
+                },
+                {
+                    "price": 30893.85,
+                    "quantity": 40,
+                    "orders": 1
+                }
+            ]
+        },
+        "symbol_key": "BANKNIFTY20JANFUT",
+        "spotPrice": 30857.25
+    }
+}

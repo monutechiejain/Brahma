@@ -1,0 +1,50 @@
+[
+    {
+        "exchange": "NFO",
+        "tradingsymbol": "BANKNIFTY21JUN36300CE",
+        "product": "MIS",
+        "quantity": -25,
+        "buy_quantity": 0,
+        "buy_price": 0,
+        "sell_quantity": 25,
+        "sell_price": 122.72,
+        "average_price": 122.72,
+        "pnl": 772.5
+    },
+    {
+        "exchange": "NFO",
+        "tradingsymbol": "BANKNIFTY21JUN36300PE",
+        "product": "MIS",
+        "quantity": -1575,
+        "buy_quantity": 0,
+        "buy_price": 0,
+        "sell_quantity": 750,
+        "sell_price": 142.90,
+        "average_price": 142.90,
+        "pnl": -2017.5
+    },
+    {
+        "exchange": "NFO",
+        "tradingsymbol": "NIFTY21JUN17350CE",
+        "product": "MIS",
+        "quantity": -50,
+        "buy_quantity": 0,
+        "buy_price": 130.2,
+        "sell_quantity": 0,
+        "sell_price": 130.0,
+        "average_price": 130.0,
+        "pnl": 772.5
+    },
+    {
+        "exchange": "NFO",
+        "tradingsymbol": "NIFTY21JUN17350PE",
+        "product": "MIS",
+        "quantity": -50,
+        "buy_quantity": 0,
+        "buy_price": 116.55,
+        "sell_quantity": 0,
+        "sell_price": 116.3,
+        "average_price": 116.3,
+        "pnl": -2017.5
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "errorDesc": "",
+    "brokerErrorCode": "",
+    "brokerErrorDesc": "",
+    "transid": "1",
+    "sorderid": "1",
+    "sname": "OOPS1_PRD",
+    "order_digest": "[{\"zorderid\": \"201102101234794\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"NIFTY20N129000CE\", \"status_message\": null, \"price\": 0, \"trigger_price\": 0, \"average_price\": 254, \"tag\": \"9100_CE_SELL_16_32\", \"torderid\": \"9100CESELL1632\"}, {\"zorderid\": \"201102101234794\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"NIFTY20N199000CE\", \"status_message\": null, \"price\": 0, \"trigger_price\": 0, \"average_price\": 254, \"tag\": \"9100_CE_SELL_16_32\", \"torderid\": \"9100CESELL1632\"},{\"zorderid\": \"201102101234796\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"NIFTY20N129000PE\", \"status_message\": null, \"price\": 0, \"trigger_price\": 0, \"average_price\": 254, \"tag\": \"9000_PE_SELL_16_32\", \"torderid\": \"9100CESELL1632\"}]"
+}

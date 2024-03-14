@@ -1,0 +1,9 @@
+{
+    "errorDesc": "PARTIAL_FILLED_ORDER",
+    "brokerErrorCode": 429,
+    "brokerErrorDesc": "NetworkException : Too many requests!!",
+    "transid": "1",
+    "sorderid": "1",
+    "sname": "OOPS1_PRD",
+    "order_digest": "[{\"zorderid\": null, \"status\": null, \"tradingsymbol\": null, \"status_message\": null, \"price\": null, \"trigger_price\": null, \"average_price\": null, \"tag\": \"9000_CE_SELL_16_32\", \"torderid\": \"9000CESELL1632\"}, {\"zorderid\": \"201102101234792\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"NIFTY20N198950CE\", \"status_message\": null, \"price\": 0, \"trigger_price\": 0, \"average_price\": 253.1, \"tag\": \"8950_CE_SELL_16_32\", \"torderid\": \"8950PESELL1632\"}]"
+}

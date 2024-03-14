@@ -1,0 +1,8 @@
+{
+  "statusCode": "200",
+  "errorCode": "",
+  "transid": "14",
+  "sorderid": "FUTURESBUY",
+  "sname": "OOPS1_PRD",
+  "order_digest": "[{\"zorderid\": \"200521000635440\", \"status\": \"VALIDATION PENDING\", \"tradingsymbol\": \"BANKNIFTY20MAYFUT\", \"status_message\": null, \"price\": 0, \"trigger_price\": 0, \"average_price\": 0}]"
+}

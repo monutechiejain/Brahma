@@ -1,0 +1,83 @@
+{
+    "NIFTY": {
+        "instrument_token": 13720834,
+        "timestamp": "2021-11-10 09:25:15.078980",
+        "last_trade_time": "2021-11-10 09:25:15.078972",
+        "last_price": 18037,
+        "last_quantity": 50,
+        "buy_quantity": 332850,
+        "sell_quantity": 475000,
+        "volume": 5884900,
+        "average_price": 17989.53,
+        "oi": 10423400,
+        "oi_day_high": 10650450,
+        "oi_day_low": 10081150,
+        "net_change": 0,
+        "lower_circuit_limit": 16263.4,
+        "upper_circuit_limit": 19877.45,
+        "ohlc": {
+            "open": 17989.65,
+            "high": 18086,
+            "low": 17925.2,
+            "close": 18070.4
+        },
+        "depth": {
+            "buy": [
+                {
+                    "price": 18036,
+                    "quantity": 100,
+                    "orders": 1
+                },
+                {
+                    "price": 18034.6,
+                    "quantity": 200,
+                    "orders": 1
+                },
+                {
+                    "price": 18034.55,
+                    "quantity": 100,
+                    "orders": 2
+                },
+                {
+                    "price": 18034.5,
+                    "quantity": 250,
+                    "orders": 1
+                },
+                {
+                    "price": 18034.4,
+                    "quantity": 150,
+                    "orders": 1
+                }
+            ],
+            "sell": [
+                {
+                    "price": 18037,
+                    "quantity": 250,
+                    "orders": 2
+                },
+                {
+                    "price": 18037.15,
+                    "quantity": 50,
+                    "orders": 1
+                },
+                {
+                    "price": 18037.2,
+                    "quantity": 50,
+                    "orders": 1
+                },
+                {
+                    "price": 18037.4,
+                    "quantity": 150,
+                    "orders": 1
+                },
+                {
+                    "price": 18037.9,
+                    "quantity": 450,
+                    "orders": 2
+                }
+            ]
+        },
+        "symbol_key": "NIFTY21NOVFUT",
+        "spotPrice": 18018.45
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "statusCode": 429,
+  "errorCode": "NetworkException",
+  "transid": "25",
+  "sorderid": "11150_CALL_SELL",
+  "sname": "OOPS1_PRD",
+  "statusMessage": "Too many requests"
+}

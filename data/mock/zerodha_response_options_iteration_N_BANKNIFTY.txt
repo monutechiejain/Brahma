@@ -1,0 +1,9 @@
+{
+    "errorDesc": "",
+    "brokerErrorCode": "",
+    "brokerErrorDesc": "",
+    "transid": "1",
+    "sorderid": "1",
+    "sname": "OOPS1_PRD",
+    "order_digest": "[{\"zorderid\": \"201102101234791\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"BANKNIFTY21JUN31100CE\", \"status_message\": null, \"price\": 0, \"trigger_price\": 0, \"average_price\": 252, \"tag\": \"31100_CE_SELL_16_32\", \"torderid\": \"9100CESELL1632\"}, {\"zorderid\": \"201102101234792\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"BANKNIFTY21JUN31100PE\", \"status_message\": null, \"price\": 0, \"trigger_price\": 0, \"average_price\": 249.1, \"tag\": \"31100_PE_SELL_16_32\", \"torderid\": \"8950PESELL1632\"}]"
+}

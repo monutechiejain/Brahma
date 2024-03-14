@@ -1,0 +1,8 @@
+{
+    "statusCode": "200",
+    "errorCode": "",
+    "transid": "16",
+    "sorderid": "1",
+    "sname": "OOPS1_SIT_PARITY",
+    "order_digest": "[{\"zorderid\": \"200216000002971\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"NIFTY20AUGFUT\", \"status_message\": \"Order was placed outside of trading hours (adapter off). Try placing an AMO.\", \"price\": 0, \"trigger_price\": 0, \"average_price\": 9000},{\"zorderid\": \"200216000002972\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"NIFTY208069000PE\", \"status_message\": \"Order was placed outside of trading hours (adapter off). Try placing an AMO.\", \"price\": 0, \"trigger_price\": 0, \"average_price\": 250}, {\"zorderid\": \"200216000002973\", \"status\": \"COMPLETE\", \"tradingsymbol\": \"NIFTY208069000CE\", \"status_message\": \"Order was placed outside of trading hours (adapter off). Try placing an AMO.\", \"price\": 0, \"trigger_price\": 0, \"average_price\": 250.0}]"
+}
